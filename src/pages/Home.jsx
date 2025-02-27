@@ -1,4 +1,6 @@
 import { useNavigate } from "react-router-dom"
+import React from 'react'; 
+import '@testing-library/jest-dom';
 
 function Home() {
     const navigate = useNavigate();

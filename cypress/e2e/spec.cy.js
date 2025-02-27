@@ -1,5 +1,5 @@
 describe('template spec', () => {
   it('passes', () => {
-    cy.visit('http://localhost:5164');
+    cy.visit('http://localhost:5174');
   })
 })
